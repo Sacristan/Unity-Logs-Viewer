@@ -1,0 +1,11 @@
+{
+    "name": "com.sacristan.unitylogsviewer",
+    "version": "1.8.1",
+    "displayName": "Unity-Logs-Viewer",
+    "description": "View Unity Logs",
+    "unity": "2019.1",
+    "keywords": [
+        "Logs",
+        "Debugging"
+    ]
+}

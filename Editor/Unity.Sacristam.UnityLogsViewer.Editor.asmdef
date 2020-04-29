@@ -1,0 +1,15 @@
+{
+    "name": "Unity.Sacristam.UnityLogsViewer.Editor",
+    "references": [
+        "GUID:a97b0eb4ab35e964fb08a7b693c2f75b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
