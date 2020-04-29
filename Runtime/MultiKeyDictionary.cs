@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Sacristam.UnityLogsViewer.Runtime 
+namespace Sacristan.UnityLogsViewer.Runtime 
 {
 	public class MultiKeyDictionary<T1, T2, T3> : Dictionary<T1, Dictionary<T2, T3>>
 	{

@@ -5,11 +5,11 @@ using UnityEditor.Callbacks;
 using System.IO;
 using System.Collections;
 
-using Sacristam.UnityLogsViewer.Runtime;
+using Sacristan.UnityLogsViewer.Runtime;
 
-namespace Sacristam.UnityLogsViewer.Editor
+namespace Sacristan.UnityLogsViewer.Editor
 {
-    public class ReporterEditor : Editor
+    public class ReporterEditor : UnityEditor.Editor
     {
         [MenuItem("Tools/Reporter/Create")]
         public static void CreateReporter()

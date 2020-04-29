@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace Sacristam.UnityLogsViewer.Runtime 
+namespace Sacristan.UnityLogsViewer.Runtime 
 {
 	public class ReporterMessageReceiver : MonoBehaviour
 	{

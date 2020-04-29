@@ -26,7 +26,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.Networking;
 #endif
 
-namespace Sacristam.UnityLogsViewer.Runtime 
+namespace Sacristan.UnityLogsViewer.Runtime 
 {
 	[System.Serializable]
 	public class Images
