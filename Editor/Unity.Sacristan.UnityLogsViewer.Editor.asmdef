@@ -1,9 +1,11 @@
 {
     "name": "Unity.Sacristan.UnityLogsViewer.Editor",
     "references": [
-        "GUID:733b34461e8379e4b9eae9a0d44329ee"
+        "Unity.Sacristan.UnityLogsViewer.Runtime"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
