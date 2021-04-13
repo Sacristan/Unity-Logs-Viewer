@@ -9,5 +9,5 @@ This is a fork of Unity Logs Viewer. Changes:
 * Add package from Git URL
 * Paste link `https://github.com/Sacristan/Unity-Logs-Viewer.git`
 
-# HOW TO setup log viewer do the following
+# HOW TO setup log viewer
 * Create reporter from menu (Reporter->Create) at first scene your game start.
